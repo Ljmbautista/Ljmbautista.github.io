@@ -1,0 +1,16 @@
+body {
+  background-color: #6A8347;
+}
+h2{
+	color:black;
+}
+table{
+	border: 2px solid black;
+	padding:2px;
+	background-color: tan;
+}
+td{
+	border: 1px solid black;
+	padding:10px;
+	background-color: #FEFCD7;
+}
